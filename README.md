@@ -77,10 +77,6 @@ This portfolio works on all modern browsers:
 - Safari
 - Edge
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Author
 
-John Doe - [johndoe@example.com](mailto:johndoe@example.com)
+Allada Sai Satya Sharan
